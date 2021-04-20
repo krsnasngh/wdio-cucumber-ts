@@ -8,8 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-   }
+  "license": "ISC",
   "dependencies": {
     "@wdio/cli": "^7.5.0"
   },
